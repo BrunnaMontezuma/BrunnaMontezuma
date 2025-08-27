@@ -5,9 +5,9 @@
 
 Me chamo Brunna Montezuma Vargas, tenho 26 anos e sou natural do Rio de Janeiro. Sou uma desenvolvedora web, em **transição de carreira** para a área de tecnologia. Sou apaixonada por tecnologia, por aprender e construir, e estou sempre em busca de novos desafios. 
 
-Embora não tenha concluído a faculdade de Análise e Desenvolvimento de Sistemas (ADS) - Estácio de Sá (Brasil - Rio de Janeiro), me dediquei a aprimorar minhas habilidades em desenvolvimento web através do curso de **Web Development** na MasterD (Portugal).
+Embora não tenha concluído a faculdade de Análise e Desenvolvimento de Sistemas (ADS) - Estácio de Sá (Brasil - Rio de Janeiro), me dediquei a aprimorar minhas habilidades em desenvolvimento web através do curso de **Web Development** na Master D (Portugal).
 
-Este perfil é o meu portfólio de aprendizado e crescimento. Aqui você encontrará os projetos que estou desenvolvendo para solidificar minhas habilidades e demonstrar meu potencial como desenvolvedor(a). 
+Este perfil é o meu portfólio de aprendizado e crescimento. Aqui você encontrará os projetos que estou desenvolvendo para solidificar minhas habilidades e demonstrar meu potencial como desenvolvedora. 
 
 ---
 
